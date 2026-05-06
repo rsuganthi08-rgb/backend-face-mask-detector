@@ -1,0 +1,6 @@
+{
+  "name": "Face Mask Detector AI",
+  "description": "A machine learning web application using scikit-learn and FastAPI to detect face masks in real-time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Real-time Image Classification", "FastAPI Backend", "Scikit-Learn Model"]
+}
